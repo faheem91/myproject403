@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
-$db['default']['database'] = 'mydb';
+$db['default']['hostname'] = 'x2.deezon.info';
+$db['default']['username'] = 'x2deezon_myproj';
+$db['default']['password'] = 'NawazSharif546';
+$db['default']['database'] = 'x2deezon_myproject403';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
