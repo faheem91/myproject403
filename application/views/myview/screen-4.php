@@ -7,7 +7,7 @@
 <body id="join">
 	<div class="top-menu">
 		<div class="wrapper">
-			<a href="default_page.html" class="logo-black">LinkedIn</a>
+			<a href="#" class="logo-black">LinkedIn</a>
 			<div class="top-menu-right-link">Already on LinkedIn? <a href="<?php echo base_url('index.php/login/login/doLogin');?>">Sign in</a></div>
 		</div>
 	</div>
@@ -64,12 +64,12 @@
 					<div id="extra">
 						<div class="sign-in-with">
 							<p class="handwritten">Save time by using your Facebook account to sign up for LinkedIn.</p>
-							<p><a href="default_page.html" class="fb_button"><span class="fb_button_text">Sign up with Facebook</span></a></p>
+							<p><a href="#" class="fb_button"><span class="fb_button_text">Sign up with Facebook</span></a></p>
 						</div>
 					</div>
 				</div>
 				<p id="agreement">
-				 * By joining LinkedIn, you agree to LinkedIn's <a href="default_page.html" target="_blank">User Agreement</a>, <a href="default_page.html" target="_blank">Privacy Policy</a> and <a href="default_page.html" target="_blank">Cookie Policy</a>
+				 * By joining LinkedIn, you agree to LinkedIn's <a href="#" target="_blank">User Agreement</a>, <a href="#" target="_blank">Privacy Policy</a> and <a href="#" target="_blank">Cookie Policy</a>
 				</p>			
 			</div>
 		
