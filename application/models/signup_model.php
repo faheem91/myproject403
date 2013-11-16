@@ -149,7 +149,7 @@ public function processp1(){
 			'country'=>$this->input->post('countryCode'),
 			'PostalCode'=>$this->input->post('postalCode'),
 			'currentStatus'=>$this->input->post('status-chooser'),
-			'language'=>$lang,
+			'lang'=>$lang,
 			'YearsOfExperience'=>$YearsOfExperience,
 			'DOB'=>$date,
 			'joiningDate'=>$date,
