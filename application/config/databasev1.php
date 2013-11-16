@@ -48,7 +48,7 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = '205.204.72.199';
+$db['default']['hostname'] = '205.204.72.199:3306';
 $db['default']['username'] = 'x2deezon_myproj';
 $db['default']['password'] = 'NawazSharif546';
 $db['default']['database'] = 'x2deezon_myproject403';
