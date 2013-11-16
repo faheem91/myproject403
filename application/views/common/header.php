@@ -16,7 +16,7 @@ $( "#login" ).submit(function( event ) {
  
   // Stop form from submitting normally
   event.preventDefault();
- document.write("helloworld");
+ document.write("helloworld"); 
   // Get some values from elements on the page:
   //var $form = $( this ),
     //term = $form.find( "input[name='s']" ).val(),

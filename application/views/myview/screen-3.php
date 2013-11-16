@@ -8,7 +8,7 @@
 	<div class="top">
 	
 		<div class="wrapper">
-			<a href="default_page.html" class="logo">LinkedIn</a>
+			<a href="index.php" class="logo">LinkedIn</a>
 			<ul class="top-navigation">
 			<li><a href="<?php echo base_url('index.php/login/login/what');?>">What is LinkedIn?</a></li>
 			<li><a href="<?php echo base_url('index.php/signup/signup');?>">Join Today</a></li>
